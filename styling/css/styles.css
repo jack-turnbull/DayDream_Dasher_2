@@ -1,0 +1,43 @@
+.navbar-brand img {
+    width: 250px;
+}
+
+.dropdown-menu[data-bs-popper] {
+    right: 0;
+    left: auto;
+}
+
+.img-thumbnail{
+    width: 200px;
+}
+
+.table-card{
+    overflow-x: scroll;
+}
+
+.sort-headding .text-black a {
+    color: #000;
+}
+
+.sort-headding a,
+.sort-headding h4 {
+    color: #9cdbff;
+}
+
+.dropdown-toggle{
+    color: rgba(255,255,255,.55);
+    text-decoration: none;
+}
+
+.dropdown-toggle:hover{
+    color: rgba(255,255,255,1);
+}
+
+.col-md-offset-3{
+  text-align:center;
+  font-size: 30px;
+}
+
+body{
+  background-color: #ceedf2;
+}
