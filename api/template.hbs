@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <title>Aston Uni events</title>
+    <style>
+        .card {
+            position: relative;
+            display: -ms-flexbox;
+            min-width: 0;
+            background-clip: border-box;
+            border: 1px solid
+            word-wrap: break-word;
+            background-color: #5405ad;
+            border-radius: 0.5rem;
+        }
+        .card-header{
+            background: #9cdbff;
+            padding: 20px;
+            color: #5405ad;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        .card-title{
+            padding: 0 20px;
+            font-size: 24px;
+        }
+
+        .card-text{
+            padding: 5 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card border-primary">
+        <div class="card-header">Check your mail, you have been sent an email from: {{sender}}</div>
+        <div class="card-body">
+            <h4 class="card-title">{{subject}}</h4>
+            <p class="card-text">{{message}}</p>
+        </div>
+    </div>
+</body>
+
+</html>
