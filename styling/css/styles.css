@@ -33,10 +33,10 @@ body{
   background-color: #ceedf2;
 }
 
-.navbar navbar-expand-lg navbar-light bg-light a:hover { 
-  background-color: #d9d4d4
+.links a:hover { 
+  background-color: #d9d4d4;
 }
 
-.navbar navbar-expand-lg navbar-light bg-light a {
+.links a {
   text-decoration: none;
 }
