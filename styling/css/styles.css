@@ -2,10 +2,6 @@
     width: 250px;
 }
 
-.dropdown-menu[data-bs-popper] {
-    right: 0;
-    left: auto;
-}
 
 .img-thumbnail{
     width: 200px;
@@ -24,14 +20,6 @@
     color: #9cdbff;
 }
 
-.dropdown-toggle{
-    color: rgba(255,255,255,.55);
-    text-decoration: none;
-}
-
-.dropdown-toggle:hover{
-    color: rgba(255,255,255,1);
-}
 
 .col-md-offset-3{
   text-align:center;
@@ -40,4 +28,12 @@
 
 body{
   background-color: #ceedf2;
+}
+
+.topnav a:hover { 
+  background-color: #d9d4d4
+}
+
+.topnav a {
+  text-decoration: none;
 }
