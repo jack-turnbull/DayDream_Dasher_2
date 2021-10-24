@@ -30,10 +30,10 @@ body{
   background-color: #ceedf2;
 }
 
-.topnav a:hover { 
+.navbar navbar-expand-lg navbar-light bg-light a:hover { 
   background-color: #d9d4d4
 }
 
-.topnav a {
+.navbar navbar-expand-lg navbar-light bg-light a {
   text-decoration: none;
 }
