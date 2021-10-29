@@ -4090,8 +4090,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-text {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .navbar-collapse {
@@ -4191,8 +4191,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-md .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
   .navbar-expand-md .navbar-nav-scroll {
     overflow: visible;
@@ -4255,8 +4255,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-xl .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
   .navbar-expand-xl .navbar-nav-scroll {
     overflow: visible;
@@ -4321,8 +4321,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-expand .navbar-nav .nav-link {
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 .navbar-expand .navbar-nav-scroll {
