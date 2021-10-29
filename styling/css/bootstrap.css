@@ -4081,8 +4081,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-nav .nav-link {
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 .navbar-nav .dropdown-menu {
@@ -4092,8 +4092,6 @@ fieldset:disabled .btn {
 .navbar-text {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 .navbar-collapse {
