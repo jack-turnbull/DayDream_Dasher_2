@@ -8,12 +8,12 @@
     background-color: #5e98d1;
     border-radius: 15px;
     margin-top: 2px;
-    padding: 20px;
+    padding: 10px;
 }
 
 .links a:hover {
     box-shadow: none;
-    background-color: #d9d4d4;
+    background-color: #a5d0fa;
     opacity: .7;
 }
 
