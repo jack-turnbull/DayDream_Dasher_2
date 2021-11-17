@@ -2,6 +2,26 @@
     width: 250px;
 }
 
+
+.links a {
+    background-color: #a0d62f;
+    border-radius: 47px;
+    margin-top: 2px;
+}
+
+.links a:hover {
+    box-shadow: none;
+    background-color: #7b9a7d;
+    opacity: .7;
+}
+
+.links span {
+    color: #fff;
+}
+.links span:hover {
+    color: #151212;
+}
+
 #title {
     color: #1a53ff;   
 }
