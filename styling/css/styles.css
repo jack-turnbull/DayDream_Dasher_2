@@ -5,9 +5,10 @@
 
 .links a {
     color: #ffffff;
-    background-color: #b8eeff;
+    background-color: #5e98d1;
     border-radius: 15px;
     margin-top: 2px;
+    padding: 20px;
 }
 
 .links a:hover {
